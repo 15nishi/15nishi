@@ -25,7 +25,7 @@ I value consistency, learning in public, and documenting everything I do.
 
 **Cyber Security · Ethical Hacking · Networking**
 <br/>
-**Full Stack Dev · JavaScript · Python**
+**Full Stack Dev · JavaScript **
 <br/>
 **🏆 Certificate of Excellence — Networking & Linux, ShapeMySkills (Ranked 3rd)**
 
@@ -39,7 +39,7 @@ I value consistency, learning in public, and documenting everything I do.
 
 **🔐 Cyber Security** — Networking fundamentals → Linux → TryHackMe Jr Pentester Path
 <br/>
-**💻 Full Stack Dev** — 100xDevs by Harkirat Singh (currently Week 2 — Promises & Async JS)
+**💻 Full Stack Dev** — 100xDevs by Harkirat Singh (currently Week 3 — DOM )
 <br/>
 **📓 Learning Journal** — daily notes on everything I learn → [github.com/15nishi/learning-journal](https://github.com/15nishi/learning-journal)
 
