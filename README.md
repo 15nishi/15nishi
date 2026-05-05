@@ -25,7 +25,7 @@ I value consistency, learning in public, and documenting everything I do.
 
 **Cyber Security · Ethical Hacking · Networking**
 <br/>
-**Full Stack Dev · JavaScript **
+**Full Stack Dev · JavaScript**
 <br/>
 **🏆 Certificate of Excellence — Networking & Linux, ShapeMySkills (Ranked 3rd)**
 
