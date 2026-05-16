@@ -39,7 +39,8 @@ I value consistency, learning in public, and documenting everything I do.
 
 **🔐 Cyber Security** — Networking fundamentals → Linux → TryHackMe Jr Pentester Path
 <br/>
-**💻 Full Stack Dev** — 100xDevs by Harkirat Singh (currently Week 3 — DOM )
+**💻 Full Stack Dev** — 100xDevs by Harkirat Singh — Week 3/24 (DOM Manipulation)
+[████░░░░░░░░░░░░░░░░] 12% Complete
 <br/>
 **📓 Learning Journal** — daily notes on everything I learn → [github.com/15nishi/learning-journal](https://github.com/15nishi/learning-journal)
 
