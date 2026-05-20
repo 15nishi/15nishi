@@ -126,10 +126,7 @@ I value consistency, learning in public, and documenting everything I do.
 
 <h3>Contribution Streak</h3>
 
-<img
-  src="https://streak-stats.demolab.com?user=15nishi&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
-  alt="GitHub Streak"
-/>
+![GitHub Streak](https://streak-stats.demolab.com?user=15nishi&theme=dark&background=000000&hide_border=true)
 
 <h3>Contribution Graph</h3>
 
