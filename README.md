@@ -60,8 +60,6 @@ I value consistency, learning in public, and documenting everything I do.
 |  **Todo App** | A simple task management application built using HTML, CSS, and JavaScript DOM manipulation. | — | [GitHub](https://github.com/15nishi/todo-app) |
 | **Learning Journal** | A structured repository documenting full-stack development concepts, notes, and weekly learning progress. | — | [GitHub](https://github.com/15nishi/learning-journal) |
 
----
-
 </div>
 
 ---
