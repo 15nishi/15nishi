@@ -52,12 +52,15 @@ I value consistency, learning in public, and documenting everything I do.
 
 <h2>Projects</h2>
 
-| Project | Live Demo | Repo |
-|---------|-----------|------|
-| VS Code Clone | [▶ demo](https://15nishi.github.io/VS-Code-Clone) | [repo](https://github.com/15nishi/vscode-clone) |
-| Zerodha Clone | [▶ demo](https://15nishi.github.io/zerodha-clone) | [repo](https://github.com/15nishi/zerodha-clone) |
-| Inventory Management System | — | [repo](https://github.com/15nishi/INVENTORY-MANAGEMNET-SYSTEM) |
-| Learning Journal | — | [repo](https://github.com/15nishi/learning-journal) |
+| Project | Description | Live Demo | Source Code |
+|----------|-------------|-----------|-------------|
+|  **VS Code Clone** | A Visual Studio Code inspired landing page clone created to improve frontend development skills and UI implementation. | [ Live Demo](https://15nishi.github.io/vscode-clone) | [ GitHub](https://github.com/15nishi/vscode-clone) |
+|  **Zerodha Clone** | A frontend clone of Zerodha built with HTML and CSS to practice responsive layouts and modern UI design principles. | [ Live Demo](https://15nishi.github.io/zerodha-clone) | [GitHub](https://github.com/15nishi/zerodha-clone) |
+|  **Inventory Management System** | An inventory management application developed using Python and SQL for managing products, stock records, and database operations. | — | [GitHub](https://github.com/15nishi/inventory-management-system) |
+|  **Todo App** | A simple task management application built using HTML, CSS, and JavaScript DOM manipulation. | — | [GitHub](https://github.com/15nishi/todo-app) |
+| **Learning Journal** | A structured repository documenting full-stack development concepts, notes, and weekly learning progress. | — | [GitHub](https://github.com/15nishi/learning-journal) |
+
+---
 
 </div>
 
