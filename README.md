@@ -54,7 +54,7 @@ I value consistency, learning in public, and documenting everything I do.
 
 | Project | Live Demo | Repo |
 |---------|-----------|------|
-| VS Code Clone | [▶ demo](https://15nishi.github.io/VS-Code-Clone) | [repo](https://github.com/15nishi/VS-Code-Clone) |
+| VS Code Clone | [▶ demo](https://15nishi.github.io/VS-Code-Clone) | [repo](https://github.com/15nishi/vscode-clone) |
 | Zerodha Clone | [▶ demo](https://15nishi.github.io/zerodha-clone) | [repo](https://github.com/15nishi/zerodha-clone) |
 | Inventory Management System | — | [repo](https://github.com/15nishi/INVENTORY-MANAGEMNET-SYSTEM) |
 | Learning Journal | — | [repo](https://github.com/15nishi/learning-journal) |
